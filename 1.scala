@@ -1,4 +1,3 @@
-import scala.io.StdIn._
 
 object ProjectOne extends App{
   def reverse(s: String): String = {
